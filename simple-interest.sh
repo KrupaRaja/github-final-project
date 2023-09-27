@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: Krupa Raja (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # Krupa Raja
    # Input:
    # p, principal amount
    # t, time period in years
